@@ -6,7 +6,8 @@ class Student {
     private: 
     string name; 
     int rollNo; 
-    float marks; 
+    float marks;
+    string  
 
     public: 
     void inputDetails() { 
